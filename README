@@ -1,0 +1,12 @@
+Requirements:
+- JDK 11+
+- Maven 3+
+
+To start the app:
+- mvn install
+- mvn gwt:codeserver
+- open http://127.0.0.1:9876/app/index.html
+
+Links:
+- https://github.com/tbroyer/gwt-maven-plugin/tree/main/src/it/gwt-app
+- https://tbroyer.github.io/gwt-maven-plugin/
